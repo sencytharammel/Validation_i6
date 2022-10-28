@@ -7,7 +7,7 @@ Description : Simple Selenium java test script to validate Contact us page  when
 
 # Pre Condition :
  Mac OS
- Selenium _server_standalone
+ Selenium _server_standalone 3.14.0
  
  Eclipse IDE 2022-23(4.23.0)
  
