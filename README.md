@@ -68,4 +68,4 @@ Step 5 : Click submit.
 Step 6 : Validation message will be showed near Company text box 
 
 # Conclusion:
-This is a part of  negative testing for Contact Us form in the website form ,when Company textBox leave blank .
+This is a part of  negative testing for Contact Us form in the website ,when Company textBox left blank .
