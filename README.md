@@ -3,7 +3,7 @@ Contact Us page validation
 # Project : 
 Validating Contact Us WebPage in https://i6.io/
 
-Description : Simple Selenium java test script to validate Contact us page  when clicking the submit button in  the form using chrome driver .
+Description : Java Selenium WebDriver test script to validate Contact us page  when clicking the submit button in  the form using chrome driver .
 
 # Pre Condition :
  Mac OS
